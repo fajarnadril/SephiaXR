@@ -1,6 +1,8 @@
 # SephiaXR
 An Extended Reality Application for Spider Phobia
 
+Video Trailer : https://www.youtube.com/shorts/lwc3lyrKDFA
+
 Credits : https://tiny.cc/sephiaxr
 
 ![Slide1](https://user-images.githubusercontent.com/36891062/204542046-d35237f2-c394-4f5f-af37-6dbe9a1a99a0.JPG)
